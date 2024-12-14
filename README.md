@@ -1,2 +1,2 @@
 # Exoplanet
-## This is my work at 研究入門
+This is my work at 研究入門
