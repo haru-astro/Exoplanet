@@ -1,2 +1,4 @@
 # Exoplanet
-This is my work at 研究入門
+## b_fit.py ,c_fit.py
+- ライトカーブからt_cを求めるコード
+- トランジット曲線
